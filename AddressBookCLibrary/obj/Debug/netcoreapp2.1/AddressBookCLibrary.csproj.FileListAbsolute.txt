@@ -1,0 +1,17 @@
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\bin\Debug\netcoreapp2.1\AddressBookCLibrary.deps.json
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\bin\Debug\netcoreapp2.1\AddressBookCLibrary.dll
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.csprojAssemblyReference.cache
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.csproj.CoreCompileInputs.cache
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.AssemblyInfoInputs.cache
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.AssemblyInfo.cs
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\bin\Debug\netcoreapp2.1\AddressBookCLibrary.pdb
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.dll
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.pdb
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\bin\Debug\netcoreapp2.1\AddressBookCLibrary.deps.json
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\bin\Debug\netcoreapp2.1\AddressBookCLibrary.dll
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\bin\Debug\netcoreapp2.1\AddressBookCLibrary.pdb
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.csprojAssemblyReference.cache
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.AssemblyInfoInputs.cache
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.AssemblyInfo.cs
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.dll
+\\gbrdcpfs07\profiles$\JHandforth\Redirection\My Documents\VS\AddressBookTaskJH\AddressBookCLibrary\obj\Debug\netcoreapp2.1\AddressBookCLibrary.pdb
